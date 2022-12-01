@@ -1,0 +1,2 @@
+/home/cc/cs61c/fl20/class/cs61c-anc/proj4/.venv/lib/python3.6/site-packages/numc.cpython-36m-x86_64-linux-gnu.so
+/home/cc/cs61c/fl20/class/cs61c-anc/proj4/.venv/lib/python3.6/site-packages/numc-1.0.egg-info
